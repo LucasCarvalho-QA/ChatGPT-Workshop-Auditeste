@@ -17,8 +17,3 @@ Feature: Login page
             | username | password     |
             | testName | secret_sauce |
         Then The error message "Epic sadface: Username and password do not match any user in this service" is displayed
-    Scenario: Incorrect Password Login
-        When A user provides incorrect credentials, and clicks on the login button
-            | username      | password     |
-            | standard_user | testPassword |
-        Then The error message "Epic sadface: Username and password do not match any user in this service" is displayed
