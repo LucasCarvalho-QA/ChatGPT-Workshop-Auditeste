@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"581f1e0457253028fe01d8de089ad7f1","name":"cypress/e2e/features/login.feature","statistic":{"failed":0,"broken":2,"skipped":0,"passed":0,"unknown":0,"total":2}},{"uid":"2c18dce65c6819fc5a24d7efa8bf5b34","name":"cypress/e2e/features/tags.feature","statistic":{"failed":0,"broken":2,"skipped":0,"passed":0,"unknown":0,"total":2}}]}

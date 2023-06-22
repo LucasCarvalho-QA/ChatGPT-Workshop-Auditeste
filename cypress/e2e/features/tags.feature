@@ -1,4 +1,6 @@
-#Feature: Login page with Tags
+# language: en
+
+Feature: Login page with Tags
 
     Feature Login page will work depending on the user credentials with Tags
 
